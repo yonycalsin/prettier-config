@@ -2,10 +2,14 @@
   "name": "@yonycalsin/prettier-config",
   "private": true,
   "devDependencies": {
+    "@changesets/changelog-github": "^0.4.2",
+    "@changesets/cli": "^2.18.1",
     "lerna": "^4.0.0"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "start": "lerna run start"
+    "start": "lerna run start",
+    "release": "changeset publish",
+    "version:pkgs": "changeset version"
   }
 }
