@@ -5,5 +5,13 @@
   "trailingComma": "all",
   "arrowParens": "avoid",
   "endOfLine": "lf",
-  "printWidth": 120
+  "printWidth": 120,
+  "overrides": [
+    {
+      "files": "package.json",
+      "options": {
+        "plugins": ["prettier-plugin-packagejson"]
+      }
+    }
+  ]
 }
