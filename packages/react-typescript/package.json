@@ -9,5 +9,8 @@
   },
   "files": [
     "index.json"
-  ]
+  ],
+  "dependencies": {
+    "prettier-plugin-packagejson": "^2.3.0"
+  }
 }
