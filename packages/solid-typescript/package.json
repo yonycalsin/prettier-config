@@ -1,0 +1,16 @@
+{
+  "name": "@yonycalsin/prettier-config-solid-typescript",
+  "version": "0.0.1",
+  "main": "index.json",
+  "author": "Yony Calsin",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "index.json"
+  ],
+  "dependencies": {
+    "prettier-plugin-packagejson": "^2.3.0"
+  }
+}
