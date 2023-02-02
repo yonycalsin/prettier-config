@@ -40,11 +40,6 @@ jobs:
       - name: Install Dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Setup CI Git User
-        run: |
-          git config --global user.email "helloyonycalsin@gmail.com"
-          git config --global user.name "Yony Calsin"
-
       - name: Publish packages
         id: changesets
         uses: changesets/action@v1
