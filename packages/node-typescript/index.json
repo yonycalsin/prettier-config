@@ -11,6 +11,12 @@
       "options": {
         "parser": "typescript"
       }
+    },
+    {
+      "files": "package.json",
+      "options": {
+        "plugins": ["prettier-plugin-packagejson"]
+      }
     }
   ]
 }
