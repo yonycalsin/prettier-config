@@ -1,6 +1,6 @@
 {
   "name": "@yonycalsin/prettier-config-node-typescript",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "main": "index.json",
   "author": "Yony Calsin",
   "license": "MIT",
