@@ -75,7 +75,7 @@
   dependencies:
     "@changesets/types" "^5.2.1"
 
-"@changesets/changelog-github@^0.4.8":
+"@changesets/changelog-github@0.4.8":
   version "0.4.8"
   resolved "https://registry.yarnpkg.com/@changesets/changelog-github/-/changelog-github-0.4.8.tgz#b7f8ae85d0c0ff08028d924c5e59a1cbd3742634"
   integrity sha512-jR1DHibkMAb5v/8ym77E4AMNWZKB5NPzw5a5Wtqm1JepAuIF+hrKp2u04NKM14oBZhHglkCfrla9uq8ORnK/dw==
@@ -84,7 +84,7 @@
     "@changesets/types" "^5.2.1"
     dotenv "^8.1.0"
 
-"@changesets/cli@^2.26.0":
+"@changesets/cli@2.26.0":
   version "2.26.0"
   resolved "https://registry.yarnpkg.com/@changesets/cli/-/cli-2.26.0.tgz#f215ddb2b41574ffd0dda9cd77fac927ba048fd3"
   integrity sha512-0cbTiDms+ICTVtEwAFLNW0jBNex9f5+fFv3I771nBvdnV/mOjd1QJ4+f8KtVSOrwD9SJkk9xbDkWFb0oXd8d1Q==
@@ -3158,7 +3158,7 @@ kleur@^4.1.4:
   resolved "https://registry.yarnpkg.com/kleur/-/kleur-4.1.5.tgz#95106101795f7050c6c650f350c683febddb1780"
   integrity sha512-o+NO+8WrRiQEE4/7nwRJhN1HWpVmJm511pBHUxPLtp0BUISzlBplORYSmTclCnJvQq2tKu/sgl3xVpkc7ZWuQQ==
 
-lerna@^4.0.0:
+lerna@4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/lerna/-/lerna-4.0.0.tgz#b139d685d50ea0ca1be87713a7c2f44a5b678e9e"
   integrity sha512-DD/i1znurfOmNJb0OBw66NmNqiM8kF6uIrzrJ0wGE3VNdzeOhz9ziWLYiRaZDGGwgbcjOo6eIfcx9O5Qynz+kg==
