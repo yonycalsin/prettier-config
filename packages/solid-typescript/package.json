@@ -11,6 +11,6 @@
     "index.json"
   ],
   "dependencies": {
-    "prettier-plugin-packagejson": "^2.3.0"
+    "prettier-plugin-packagejson": "^2.4.8"
   }
 }
